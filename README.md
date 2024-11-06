@@ -1,7 +1,5 @@
-Hi, I'm Lukas Reinhardt,
-
-
 Hi there, I'm Lukas Reinhardt! 👋
+
 With a background in sports medical engineering, where I gained extensive 
 technical knowledge alongside medical topics, I've ventured into the world 
 of software development. My focus is on product development—from CAD design 
