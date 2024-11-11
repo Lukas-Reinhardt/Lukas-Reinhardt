@@ -4,7 +4,7 @@ a tech enthusiast and aspiring software developer with a background in sports me
 
 🔍 What you can expect:
 
--Software projects featuring database (SQL) and UI design, 
+- Software projects featuring database (SQL) and UI design, 
 - Custom applications and tools for process optimization,
 - Learning resources and code snippets for beginners
 
